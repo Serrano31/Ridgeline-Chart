@@ -2,4 +2,4 @@
 
 Interactive visualization of temperature distributions by month.
 
-[Open the interactive chart](https://github.com/Serrano31/Ridgeline-Chart/index.html](https://github.com/Serrano31/Ridgeline-Chart/blob/main/index.html)
+[Open the interactive chart](https://github.com/Serrano31/Ridgeline-Chart/blob/main/index.html)
