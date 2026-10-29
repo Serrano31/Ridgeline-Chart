@@ -1,5 +1,3 @@
-# Monthly Temperature Ridgeline Chart
+## Interactive Ridgeline Chart
 
-Interactive visualization of temperature distributions by month.
-
-[Open the interactive chart](https://github.com/Serrano31/Ridgeline-Chart/blob/main/index.html)
+[View the interactive visualization](https://serrano31.github.io/Ridgeline-Chart/)
