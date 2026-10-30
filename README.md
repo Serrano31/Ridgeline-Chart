@@ -1,3 +1,3 @@
 ## Interactive Ridgeline Chart
 
-View in index.html
+Download index.html
